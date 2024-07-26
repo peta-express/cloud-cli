@@ -1,0 +1,6 @@
+*.pyg
+*.pyc
+build/
+dist/
+petaexpress_cli.egg-info/
+.idea/
